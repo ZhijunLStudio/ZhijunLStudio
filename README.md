@@ -20,7 +20,6 @@ Welcome to my Github page! I'm passionate about programming and technology, focu
 
 #### 💪 Things I am challenging myself with:
 - Contributing to open-source AI projects
-- Implementing state-of-the-art papers
 - Sharing knowledge through technical blogs
 - Exploring emerging multimodal architectures
 
