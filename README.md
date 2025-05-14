@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### This is Zhijun Li!
 
-[![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat&logo=c&logoColor=white)](https://blog.csdn.net/weixin_45921929?type=blog)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lizhijun3753@gmail.com)
+[![CSDN](https://img.shields.io/badge/-CSDN-CA0C16?style=flat&logo=c&logoColor=white)](https://blog.csdn.net/weixin_45921929?type=blog)
+[![Gmail](https://img.shields.io/badge/-Gmail-4285F4?style=flat&logo=Gmail&logoColor=white)](mailto:lizhijun3753@gmail.com)
+
 
 Welcome to my Github page! I'm passionate about programming and technology, focusing on the artificial intelligence domain. I love turning ideas into code and sharing knowledge with the community.
 
