@@ -1,19 +1,11 @@
 <div align="center">
 
 ```text
-███████╗██╗  ██╗██╗     ██╗██╗   ██╗███╗   ██╗██╗     ███████╗████████╗
-╚══███╔╝██║  ██║██║     ██║██║   ██║████╗  ██║██║     ██╔════╝╚══██╔══╝
-  ███╔╝ ███████║██║     ██║██║   ██║██╔██╗ ██║██║     ███████╗   ██║
- ███╔╝  ██╔══██║██║██   ██║██║   ██║██║╚██╗██║██║     ╚════██║   ██║
-███████╗██║  ██║██║╚█████╔╝╚██████╔╝██║ ╚████║███████╗███████║   ██║
-╚══════╝╚═╝  ╚═╝╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝
-
-██╗   ██╗██████╗ ██╗ ██████╗
-██║   ██║██╔══██╗██║██╔═══██╗
-██║   ██║██║  ██║██║██║   ██║
-██║   ██║██║  ██║██║██║   ██║
-╚██████╔╝██████╔╝██║╚██████╔╝
- ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝
+ _____    _  _                _    ___ _           _ _
+|_  / |_ (_)(_)_  _ _ _      | |  / __| |_ _  _ __| (_)___
+ / /| ' \| || | || | ' \     | |__\__ \  _| || / _` | / _ \
+/___|_||_|_|/ |\_,_|_||_|    |____|___/\__|\_,_\__,_|_\___/
+          |__/
 ```
 
 ### AI Researcher | LLM & Inference Optimization
@@ -25,10 +17,9 @@
 
 ---
 
-<!-- About Section -->
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 #### `$ cat /about.txt`
 
@@ -36,29 +27,31 @@
 > post-training (multimodal & RL), and inference acceleration.
 > Turning cutting-edge research into efficient systems.
 
-</td>
-<td width="50%">
-
 #### `$ cat /interests.txt`
 
-> LLM Pre-training & Post-training (SFT, RLHF, DPO, GRPO)
-> Multimodal Models (Vision-Language, Audio-Language)
-> Inference Optimization (Quantization, KV-Cache, Speculative)
-> Reinforcement Learning for LLM Alignment
-> Distributed Training & Efficient Serving
+> - LLM Pre-training & Post-training (SFT, RLHF, DPO, GRPO)
+> - Multimodal Models (Vision-Language, Audio-Language)
+> - Inference Optimization (Quantization, KV-Cache, Speculative)
+> - Reinforcement Learning for LLM Alignment
+> - Distributed Training & Efficient Serving
+
+</td>
+<td width="45%">
+
+#### `$ ls /skills/`
+
+| | |
+|---|---|
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-0062B0?style=flat&logo=paddlepaddle&logoColor=white) |
+| ![vLLM](https://img.shields.io/badge/vLLM-2496ED?style=flat&logo=linux&logoColor=white) | ![FastDeploy](https://img.shields.io/badge/FastDeploy-0052CC?style=flat&logo=rocket&logoColor=white) |
+| ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat&logo=microsoft&logoColor=white) | ![Megatron-LM](https://img.shields.io/badge/Megatron--LM-76B900?style=flat&logo=nvidia&logoColor=white) |
+| ![LLaMA-Factory](https://img.shields.io/badge/LLaMA--Factory-FF6F00?style=flat&logo=meta&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) |
 
 </td>
 </tr>
 </table>
-
-#### `$ ls /skills/`
-
-| Category | Skills |
-|----------|--------|
-| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-0062B0?style=flat&logo=paddlepaddle&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-2496ED?style=flat&logo=linux&logoColor=white) ![FastDeploy](https://img.shields.io/badge/FastDeploy-0052CC?style=flat&logo=rocket&logoColor=white) |
-| **Training** | ![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat&logo=microsoft&logoColor=white) ![Megatron-LM](https://img.shields.io/badge/Megatron--LM-76B900?style=flat&logo=nvidia&logoColor=white) ![LLaMA-Factory](https://img.shields.io/badge/LLaMA--Factory-FF6F00?style=flat&logo=meta&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
@@ -68,8 +61,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZhijunLStudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhijunLStudio&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZhijunLStudio&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 <!-- Snake Animation -->
 <picture>
