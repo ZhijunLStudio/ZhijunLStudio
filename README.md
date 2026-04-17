@@ -1,14 +1,6 @@
 <div align="center">
 
-```text
- _____    _  _                _    ___ _           _ _
-|_  / |_ (_)(_)_  _ _ _      | |  / __| |_ _  _ __| (_)___
- / /| ' \| || | || | ' \     | |__\__ \  _| || / _` | / _ \
-/___|_||_|_|/ |\_,_|_||_|    |____|___/\__|\_,_\__,_|_\___/
-          |__/
-```
-
-### AI Researcher | LLM & Inference Optimization
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%24+echo+%22Hello%2C+World!%22;Welcome+to+ZhijunLStudio!;AI+%7C+LLM+%7C+Inference+%7C+RL" alt="Typing SVG" />
 
 [![CSDN](https://img.shields.io/badge/CSDN-Blog-CA0C16?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/weixin_45921929?type=blog)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizhijun3753@gmail.com)
@@ -23,17 +15,20 @@
 
 #### `$ cat /about.txt`
 
-> I'm a researcher passionate about large language models,
-> post-training (multimodal & RL), and inference acceleration.
-> Turning cutting-edge research into efficient systems.
+> I'm a researcher focused on making LLMs faster and smarter.
+> Currently working on inference optimization, multimodal
+> post-training (SFT/RLHF/DPO/GRPO), and efficient serving
+> at scale.
+
+> Previously explored computer vision, now deep into the
+> world of large language models and reinforcement learning.
 
 #### `$ cat /interests.txt`
 
-> - LLM Pre-training & Post-training (SFT, RLHF, DPO, GRPO)
-> - Multimodal Models (Vision-Language, Audio-Language)
-> - Inference Optimization (Quantization, KV-Cache, Speculative)
-> - Reinforcement Learning for LLM Alignment
-> - Distributed Training & Efficient Serving
+> - Inference Optimization (Quantization, KV-Cache, Speculative Decoding)
+> - Post-training Alignment (SFT, RLHF, DPO, GRPO)
+> - Multimodal LLMs (Vision-Language, Audio-Language)
+> - Distributed Training & Efficient Serving (vLLM, TensorRT-LLM)
 
 </td>
 <td width="45%">
