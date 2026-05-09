@@ -54,8 +54,8 @@
 
 ### GitHub Stats
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZhijunLStudio&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZhijunLStudio&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-taupe-two.vercel.app/api?username=ZhijunLStudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-taupe-two.vercel.app/api/top-langs/?username=ZhijunLStudio&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ### Contribution Graph
 
