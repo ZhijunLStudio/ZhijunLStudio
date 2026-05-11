@@ -52,22 +52,11 @@
 
 <div align="center">
 
-### GitHub Stats
-
-<img height="180em" src="https://github-readme-stats-taupe-two.vercel.app/api?username=ZhijunLStudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-taupe-two.vercel.app/api/top-langs/?username=ZhijunLStudio&layout=compact&theme=tokyonight&hide_border=true"/>
-
-### Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZhijunLStudio&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="contribution graph"/>
-
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhijunLStudio/ZhijunLStudio/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhijunLStudio/ZhijunLStudio/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhijunLStudio/ZhijunLStudio/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://komarev.com/ghpvc/?username=ZhijunLStudio&label=Profile%20Views&color=00F7FF&style=flat" alt="visitor counter" />
 
 </div>
